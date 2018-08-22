@@ -2,7 +2,7 @@
  
 <strong>Self-balancing binary search tree <em>(a.k.a. AVL tree)</em></strong> <br>
  
-
+Programs options:<br>
 1 - Creates a tree from scratch <br>
 
 2 - Creates a tree by adding nodes one at a time <br>
