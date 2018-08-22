@@ -9,7 +9,7 @@ Program options:<br>
 
 3 - Deletes a node by providing its value <br>
  
-4 - Prints tree elements: <em>in-order</em> or <em>pre-order</em> with their respective balance factor
+4 - Prints tree elements: <em>in-order</em> or <em>pre-order</em> with their respectives balance factors
  
 5 - Ends program <br><br>
 
