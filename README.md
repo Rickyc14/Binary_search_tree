@@ -26,3 +26,5 @@ Program options:<br>
 - repeated values aren't added to the tree
 
 - <em>binary_tree.exe </em> to try it out
+
+- running this executable on linux machines: download Wine, download the simple_stack.exe, open the terminal on the .exe location and run $ wine binary_search_tree.exe
