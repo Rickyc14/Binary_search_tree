@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1534919648 source:c:\users\ricar\downloads\c\hub\binary_tree\main.c
+	<main.h>
+
+1534914840 c:\users\ricar\downloads\c\hub\binary_tree\\main.h
+	<stdio.h>
+
+1534919728 source:c:\users\ricar\downloads\c\hub\binary_tree\functions.c
+	<main.h>
+
