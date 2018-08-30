@@ -28,3 +28,8 @@ Program options:<br>
 - <em>binary_search_tree.exe </em> to try it out
 
 - running this executable on linux machines: download Wine, download the binary_search_tree.exe, open the terminal on the .exe location and run $ wine binary_search_tree.exe
+<br><br>
+
+
+
+:arrow_right: Check out my [queue repository](https://github.com/Rickyc14/Queue.git)
